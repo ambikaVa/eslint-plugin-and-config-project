@@ -1,1 +1,1 @@
-# eslint-plugin-and-config-project
+# eslint-external-plugin-and-config-project
