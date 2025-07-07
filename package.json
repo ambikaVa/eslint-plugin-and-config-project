@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-and-config-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint js",
+    "lint-fix": "eslint js --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambikaVa/eslint-plugin-and-config-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambikaVa/eslint-plugin-and-config-project/issues"
+  },
+  "homepage": "https://github.com/ambikaVa/eslint-plugin-and-config-project#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "eslint": "^9.30.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-promise": "^7.2.1",
+    "globals": "^16.3.0"
+  }
+}
